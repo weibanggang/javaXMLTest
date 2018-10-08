@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="apple" class="com.wbg.fruit.Apple"></bean>
+    <bean id="banana" class="com.wbg.fruit.Banana"></bean>
+    <bean id="pear" class="com.wbg.fruit.Pear"></bean>
+</beans>
